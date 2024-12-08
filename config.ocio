@@ -162,435 +162,435 @@ looks:
   - !<Look>
     name: 1110 Black and White
     process_space: logc4_arriwg4
-    transform: !<FileTransform> {src: LogC4_1110_Black_and_White.cube, interpolation: tetrahedral}
+    transform: !<FileTransform> {src: ARRI-LL-LogC4_1110_Black_and_White.cube, interpolation: tetrahedral}
 
   - !<Look>
     name: 1111 Black and White
     process_space: logc4_arriwg4
-    transform: !<FileTransform> {src: LogC4_1111_Black_and_White.cube, interpolation: tetrahedral}
+    transform: !<FileTransform> {src: ARRI-LL-LogC4_1111_Black_and_White.cube, interpolation: tetrahedral}
 
   - !<Look>
     name: 1120 Black and White - Night sky
     process_space: logc4_arriwg4
-    transform: !<FileTransform> {src: LogC4_1120_Black_and_White_Night_sky.cube, interpolation: tetrahedral}
+    transform: !<FileTransform> {src: ARRI-LL-LogC4_1120_Black_and_White_-_Night_sky.cube, interpolation: tetrahedral}
 
   - !<Look>
     name: 2110 Commercial
     process_space: logc4_arriwg4
-    transform: !<FileTransform> {src: LogC4_2110_Commercial.cube, interpolation: tetrahedral}
+    transform: !<FileTransform> {src: ARRI-LL-LogC4_2110_Commercial.cube, interpolation: tetrahedral}
 
   - !<Look>
     name: 2111 Commercial
     process_space: logc4_arriwg4
-    transform: !<FileTransform> {src: LogC4_2111_Commercial.cube, interpolation: tetrahedral}
+    transform: !<FileTransform> {src: ARRI-LL-LogC4_2111_Commercial.cube, interpolation: tetrahedral}
 
   - !<Look>
     name: 2120 Fashion
     process_space: logc4_arriwg4
-    transform: !<FileTransform> {src: LogC4_2120_Fashion.cube, interpolation: tetrahedral}
+    transform: !<FileTransform> {src: ARRI-LL-LogC4_2120_Fashion.cube, interpolation: tetrahedral}
 
   - !<Look>
     name: 2121 Fashion
     process_space: logc4_arriwg4
-    transform: !<FileTransform> {src: LogC4_2121_Fashion.cube, interpolation: tetrahedral}
+    transform: !<FileTransform> {src: ARRI-LL-LogC4_2121_Fashion.cube, interpolation: tetrahedral}
 
   - !<Look>
     name: 2130 Beauty
     process_space: logc4_arriwg4
-    transform: !<FileTransform> {src: LogC4_2130_Beauty.cube, interpolation: tetrahedral}
+    transform: !<FileTransform> {src: ARRI-LL-LogC4_2130_Beauty.cube, interpolation: tetrahedral}
 
   - !<Look>
     name: 2131 Beauty
     process_space: logc4_arriwg4
-    transform: !<FileTransform> {src: LogC4_2131_Beauty.cube, interpolation: tetrahedral}
+    transform: !<FileTransform> {src: ARRI-LL-LogC4_2131_Beauty.cube, interpolation: tetrahedral}
 
   - !<Look>
     name: 3110 Film A
     process_space: logc4_arriwg4
-    transform: !<FileTransform> {src: LogC4_3110_Film_A.cube, interpolation: tetrahedral}
+    transform: !<FileTransform> {src: ARRI-LL-LogC4_3110_Film_A.cube, interpolation: tetrahedral}
 
   - !<Look>
     name: 3111 Film B
     process_space: logc4_arriwg4
-    transform: !<FileTransform> {src: LogC4_3111_Film_B.cube, interpolation: tetrahedral}
+    transform: !<FileTransform> {src: ARRI-LL-LogC4_3111_Film_B.cube, interpolation: tetrahedral}
 
   - !<Look>
     name: 3112 Film C
     process_space: logc4_arriwg4
-    transform: !<FileTransform> {src: LogC4_3112_Film_C.cube, interpolation: tetrahedral}
+    transform: !<FileTransform> {src: ARRI-LL-LogC4_3112_Film_C.cube, interpolation: tetrahedral}
 
   - !<Look>
     name: 3113 Film D
     process_space: logc4_arriwg4
-    transform: !<FileTransform> {src: LogC4_3113_Film_D.cube, interpolation: tetrahedral}
+    transform: !<FileTransform> {src: ARRI-LL-LogC4_3113_Film_D.cube, interpolation: tetrahedral}
 
   - !<Look>
     name: 3114 Film E
     process_space: logc4_arriwg4
-    transform: !<FileTransform> {src: LogC4_3114_Film_E.cube, interpolation: tetrahedral}
+    transform: !<FileTransform> {src: ARRI-LL-LogC4_3114_Film_E.cube, interpolation: tetrahedral}
 
   - !<Look>
     name: 3150 Film Process Bleach Bypass
     process_space: logc4_arriwg4
-    transform: !<FileTransform> {src: LogC4_3150_Film_Process_Bleach_bypass.cube, interpolation: tetrahedral}
+    transform: !<FileTransform> {src: ARRI-LL-LogC4_3150_Film_Process_-_Bleach_bypass.cube, interpolation: tetrahedral}
 
   - !<Look>
     name: 3151 Film Process Bleach Bypass
     process_space: logc4_arriwg4
-    transform: !<FileTransform> {src: LogC4_3151_Film_Process_Bleach_bypass.cube, interpolation: tetrahedral}
+    transform: !<FileTransform> {src: ARRI-LL-LogC4_3151_Film_Process_-_Bleach_bypass.cube, interpolation: tetrahedral}
 
   - !<Look>
     name: 3210 Vintage
     process_space: logc4_arriwg4
-    transform: !<FileTransform> {src: LogC4_3210_Vintage.cube, interpolation: tetrahedral}
+    transform: !<FileTransform> {src: ARRI-LL-LogC4_3210_Vintage.cube, interpolation: tetrahedral}
 
   - !<Look>
     name: 3211 Vintage
     process_space: logc4_arriwg4
-    transform: !<FileTransform> {src: LogC4_3211_Vintage.cube, interpolation: tetrahedral}
+    transform: !<FileTransform> {src: ARRI-LL-LogC4_3211_Vintage.cube, interpolation: tetrahedral}
 
   - !<Look>
     name: 3220 Analog
     process_space: logc4_arriwg4
-    transform: !<FileTransform> {src: LogC4_3220_Analog.cube, interpolation: tetrahedral}
+    transform: !<FileTransform> {src: ARRI-LL-LogC4_3220_Analog.cube, interpolation: tetrahedral}
 
   - !<Look>
     name: 3221 Analog
     process_space: logc4_arriwg4
-    transform: !<FileTransform> {src: LogC4_3221_Analog.cube, interpolation: tetrahedral}
+    transform: !<FileTransform> {src: ARRI-LL-LogC4_3221_Analog.cube, interpolation: tetrahedral}
 
   - !<Look>
     name: 3230 Retro
     process_space: logc4_arriwg4
-    transform: !<FileTransform> {src: LogC4_3230_Retro.cube, interpolation: tetrahedral}
+    transform: !<FileTransform> {src: ARRI-LL-LogC4_3230_Retro.cube, interpolation: tetrahedral}
 
   - !<Look>
     name: 3231 Retro
     process_space: logc4_arriwg4
-    transform: !<FileTransform> {src: LogC4_3231_Retro.cube, interpolation: tetrahedral}
+    transform: !<FileTransform> {src: ARRI-LL-LogC4_3231_Retro.cube, interpolation: tetrahedral}
 
   - !<Look>
     name: 3240 Faded
     process_space: logc4_arriwg4
-    transform: !<FileTransform> {src: LogC4_3240_Faded.cube, interpolation: tetrahedral}
+    transform: !<FileTransform> {src: ARRI-LL-LogC4_3240_Faded.cube, interpolation: tetrahedral}
 
   - !<Look>
     name: 3241 Faded
     process_space: logc4_arriwg4
-    transform: !<FileTransform> {src: LogC4_3241_Faded.cube, interpolation: tetrahedral}
+    transform: !<FileTransform> {src: ARRI-LL-LogC4_3241_Faded.cube, interpolation: tetrahedral}
 
   - !<Look>
     name: 3250 Cross
     process_space: logc4_arriwg4
-    transform: !<FileTransform> {src: LogC4_3250_Cross.cube, interpolation: tetrahedral}
+    transform: !<FileTransform> {src: ARRI-LL-LogC4_3250_Cross.cube, interpolation: tetrahedral}
 
   - !<Look>
     name: 3410 Film Teal And Orange
     process_space: logc4_arriwg4
-    transform: !<FileTransform> {src: LogC4_3410_Film_Teal_and_orange.cube, interpolation: tetrahedral}
+    transform: !<FileTransform> {src: ARRI-LL-LogC4_3410_Film_-_Teal_and_orange.cube, interpolation: tetrahedral}
 
   - !<Look>
     name: 3411 Film Teal And Orange
     process_space: logc4_arriwg4
-    transform: !<FileTransform> {src: LogC4_3411_Film_Teal_and_orange.cube, interpolation: tetrahedral}
+    transform: !<FileTransform> {src: ARRI-LL-LogC4_3411_Film_-_Teal_and_orange.cube, interpolation: tetrahedral}
 
   - !<Look>
     name: 3420 Video Teal And Orange
     process_space: logc4_arriwg4
-    transform: !<FileTransform> {src: LogC4_3420_Video_Teal_and_orange.cube, interpolation: tetrahedral}
+    transform: !<FileTransform> {src: ARRI-LL-LogC4_3420_Video_-_Teal_and_orange.cube, interpolation: tetrahedral}
 
   - !<Look>
     name: 4110 Tinted Desert
     process_space: logc4_arriwg4
-    transform: !<FileTransform> {src: LogC4_4110_Tinted_Desert.cube, interpolation: tetrahedral}
+    transform: !<FileTransform> {src: ARRI-LL-LogC4_4110_Tinted_-_Desert.cube, interpolation: tetrahedral}
 
   - !<Look>
     name: 4120 Tinted Sepia
     process_space: logc4_arriwg4
-    transform: !<FileTransform> {src: LogC4_4120_Tinted_Sepia.cube, interpolation: tetrahedral}
+    transform: !<FileTransform> {src: ARRI-LL-LogC4_4120_Tinted_-_Sepia.cube, interpolation: tetrahedral}
 
   - !<Look>
     name: 4130 Tinted Orange
     process_space: logc4_arriwg4
-    transform: !<FileTransform> {src: LogC4_4130_Tinted_Orange.cube, interpolation: tetrahedral}
+    transform: !<FileTransform> {src: ARRI-LL-LogC4_4130_Tinted_-_Orange.cube, interpolation: tetrahedral}
 
   - !<Look>
     name: 4131 Tinted Orange
     process_space: logc4_arriwg4
-    transform: !<FileTransform> {src: LogC4_4131_Tinted_Orange.cube, interpolation: tetrahedral}
+    transform: !<FileTransform> {src: ARRI-LL-LogC4_4131_Tinted_-_Orange.cube, interpolation: tetrahedral}
 
   - !<Look>
     name: 4140 Tinted Earth
     process_space: logc4_arriwg4
-    transform: !<FileTransform> {src: LogC4_4140_Tinted_Earth.cube, interpolation: tetrahedral}
+    transform: !<FileTransform> {src: ARRI-LL-LogC4_4140_Tinted_-_Earth.cube, interpolation: tetrahedral}
 
   - !<Look>
     name: 4150 Tinted White
     process_space: logc4_arriwg4
-    transform: !<FileTransform> {src: LogC4_4150_Tinted_White.cube, interpolation: tetrahedral}
+    transform: !<FileTransform> {src: ARRI-LL-LogC4_4150_Tinted_-_White.cube, interpolation: tetrahedral}
 
   - !<Look>
     name: 4160 Tinted Teal
     process_space: logc4_arriwg4
-    transform: !<FileTransform> {src: LogC4_4160_Tinted_Teal.cube, interpolation: tetrahedral}
+    transform: !<FileTransform> {src: ARRI-LL-LogC4_4160_Tinted_-_Teal.cube, interpolation: tetrahedral}
 
   - !<Look>
     name: 4170 Tinted Blue Sky
     process_space: logc4_arriwg4
-    transform: !<FileTransform> {src: LogC4_4170_Tinted_Blue_sky.cube, interpolation: tetrahedral}
+    transform: !<FileTransform> {src: ARRI-LL-LogC4_4170_Tinted_-_Blue_sky.cube, interpolation: tetrahedral}
 
   - !<Look>
     name: 4180 Tinted Ocean
     process_space: logc4_arriwg4
-    transform: !<FileTransform> {src: LogC4_4180_Tinted_Ocean.cube, interpolation: tetrahedral}
+    transform: !<FileTransform> {src: ARRI-LL-LogC4_4180_Tinted_-_Ocean.cube, interpolation: tetrahedral}
 
   - !<Look>
     name: 4190 Tinted Aqua
     process_space: logc4_arriwg4
-    transform: !<FileTransform> {src: LogC4_4190_Tinted_Aqua.cube, interpolation: tetrahedral}
+    transform: !<FileTransform> {src: ARRI-LL-LogC4_4190_Tinted_-_Aqua.cube, interpolation: tetrahedral}
 
   - !<Look>
     name: 4210 Tinted Green
     process_space: logc4_arriwg4
-    transform: !<FileTransform> {src: LogC4_4210_Tinted_Green.cube, interpolation: tetrahedral}
+    transform: !<FileTransform> {src: ARRI-LL-LogC4_4210_Tinted_-_Green.cube, interpolation: tetrahedral}
 
   - !<Look>
     name: 4220 Tinted Magenta
     process_space: logc4_arriwg4
-    transform: !<FileTransform> {src: LogC4_4220_Tinted_Magenta.cube, interpolation: tetrahedral}
+    transform: !<FileTransform> {src: ARRI-LL-LogC4_4220_Tinted_-_Magenta.cube, interpolation: tetrahedral}
 
   - !<Look>
     name: 4230 Tinted Yellow
     process_space: logc4_arriwg4
-    transform: !<FileTransform> {src: LogC4_4230_Tinted_Yellow.cube, interpolation: tetrahedral}
+    transform: !<FileTransform> {src: ARRI-LL-LogC4_4230_Tinted_-_Yellow.cube, interpolation: tetrahedral}
 
   - !<Look>
     name: 4240 Tinted Fire
     process_space: logc4_arriwg4
-    transform: !<FileTransform> {src: LogC4_4240_Tinted_Fire.cube, interpolation: tetrahedral}
+    transform: !<FileTransform> {src: ARRI-LL-LogC4_4240_Tinted_-_Fire.cube, interpolation: tetrahedral}
 
   - !<Look>
     name: 5110 Nature
     process_space: logc4_arriwg4
-    transform: !<FileTransform> {src: LogC4_5110_Nature.cube, interpolation: tetrahedral}
+    transform: !<FileTransform> {src: ARRI-LL-LogC4_5110_Nature.cube, interpolation: tetrahedral}
 
   - !<Look>
     name: 5111 Nature
     process_space: logc4_arriwg4
-    transform: !<FileTransform> {src: LogC4_5111_Nature.cube, interpolation: tetrahedral}
+    transform: !<FileTransform> {src: ARRI-LL-LogC4_5111_Nature.cube, interpolation: tetrahedral}
 
   - !<Look>
     name: 5120 City
     process_space: logc4_arriwg4
-    transform: !<FileTransform> {src: LogC4_5120_City.cube, interpolation: tetrahedral}
+    transform: !<FileTransform> {src: ARRI-LL-LogC4_5120_City.cube, interpolation: tetrahedral}
 
   - !<Look>
     name: 5121 City
     process_space: logc4_arriwg4
-    transform: !<FileTransform> {src: LogC4_5121_City.cube, interpolation: tetrahedral}
+    transform: !<FileTransform> {src: ARRI-LL-LogC4_5121_City.cube, interpolation: tetrahedral}
 
   - !<Look>
     name: 5122 City
     process_space: logc4_arriwg4
-    transform: !<FileTransform> {src: LogC4_5122_City.cube, interpolation: tetrahedral}
+    transform: !<FileTransform> {src: ARRI-LL-LogC4_5122_City.cube, interpolation: tetrahedral}
 
   - !<Look>
     name: 5130 Suburban
     process_space: logc4_arriwg4
-    transform: !<FileTransform> {src: LogC4_5130_Suburban.cube, interpolation: tetrahedral}
+    transform: !<FileTransform> {src: ARRI-LL-LogC4_5130_Suburban.cube, interpolation: tetrahedral}
 
   - !<Look>
     name: 5131 Suburban
     process_space: logc4_arriwg4
-    transform: !<FileTransform> {src: LogC4_5131_Suburban.cube, interpolation: tetrahedral}
+    transform: !<FileTransform> {src: ARRI-LL-LogC4_5131_Suburban.cube, interpolation: tetrahedral}
 
   - !<Look>
     name: 5210 Vibrant
     process_space: logc4_arriwg4
-    transform: !<FileTransform> {src: LogC4_5210_Vibrant.cube, interpolation: tetrahedral}
+    transform: !<FileTransform> {src: ARRI-LL-LogC4_5210_Vibrant.cube, interpolation: tetrahedral}
 
   - !<Look>
     name: 5220 Desaturated
     process_space: logc4_arriwg4
-    transform: !<FileTransform> {src: LogC4_5220_Desaturated.cube, interpolation: tetrahedral}
+    transform: !<FileTransform> {src: ARRI-LL-LogC4_5220_Desaturated.cube, interpolation: tetrahedral}
 
   - !<Look>
     name: 5230 Saturated
     process_space: logc4_arriwg4
-    transform: !<FileTransform> {src: LogC4_5230_Saturated.cube, interpolation: tetrahedral}
+    transform: !<FileTransform> {src: ARRI-LL-LogC4_5230_Saturated.cube, interpolation: tetrahedral}
 
   - !<Look>
     name: 6110 Warm
     process_space: logc4_arriwg4
-    transform: !<FileTransform> {src: LogC4_6110_Warm.cube, interpolation: tetrahedral}
+    transform: !<FileTransform> {src: ARRI-LL-LogC4_6110_Warm.cube, interpolation: tetrahedral}
 
   - !<Look>
     name: 6111 Warm
     process_space: logc4_arriwg4
-    transform: !<FileTransform> {src: LogC4_6111_Warm.cube, interpolation: tetrahedral}
+    transform: !<FileTransform> {src: ARRI-LL-LogC4_6111_Warm.cube, interpolation: tetrahedral}
 
   - !<Look>
     name: 6112 Warm
     process_space: logc4_arriwg4
-    transform: !<FileTransform> {src: LogC4_6112_Warm.cube, interpolation: tetrahedral}
+    transform: !<FileTransform> {src: ARRI-LL-LogC4_6112_Warm.cube, interpolation: tetrahedral}
 
   - !<Look>
     name: 6120 Cold
     process_space: logc4_arriwg4
-    transform: !<FileTransform> {src: LogC4_6120_Cold.cube, interpolation: tetrahedral}
+    transform: !<FileTransform> {src: ARRI-LL-LogC4_6120_Cold.cube, interpolation: tetrahedral}
 
   - !<Look>
     name: 6121 Cold
     process_space: logc4_arriwg4
-    transform: !<FileTransform> {src: LogC4_6121_Cold.cube, interpolation: tetrahedral}
+    transform: !<FileTransform> {src: ARRI-LL-LogC4_6121_Cold.cube, interpolation: tetrahedral}
 
   - !<Look>
     name: 6210 Spring
     process_space: logc4_arriwg4
-    transform: !<FileTransform> {src: LogC4_6210_Spring.cube, interpolation: tetrahedral}
+    transform: !<FileTransform> {src: ARRI-LL-LogC4_6210_Spring.cube, interpolation: tetrahedral}
 
   - !<Look>
     name: 6220 Summer
     process_space: logc4_arriwg4
-    transform: !<FileTransform> {src: LogC4_6220_Summer.cube, interpolation: tetrahedral}
+    transform: !<FileTransform> {src: ARRI-LL-LogC4_6220_Summer.cube, interpolation: tetrahedral}
 
   - !<Look>
     name: 6230 Autumn
     process_space: logc4_arriwg4
-    transform: !<FileTransform> {src: LogC4_6230_Autumn.cube, interpolation: tetrahedral}
+    transform: !<FileTransform> {src: ARRI-LL-LogC4_6230_Autumn.cube, interpolation: tetrahedral}
 
   - !<Look>
     name: 6240 Winter
     process_space: logc4_arriwg4
-    transform: !<FileTransform> {src: LogC4_6240_Winter.cube, interpolation: tetrahedral}
+    transform: !<FileTransform> {src: ARRI-LL-LogC4_6240_Winter.cube, interpolation: tetrahedral}
 
   - !<Look>
     name: 6310 Pastel
     process_space: logc4_arriwg4
-    transform: !<FileTransform> {src: LogC4_6310_Pastel.cube, interpolation: tetrahedral}
+    transform: !<FileTransform> {src: ARRI-LL-LogC4_6310_Pastel.cube, interpolation: tetrahedral}
 
   - !<Look>
     name: 6311 Pastel
     process_space: logc4_arriwg4
-    transform: !<FileTransform> {src: LogC4_6311_Pastel.cube, interpolation: tetrahedral}
+    transform: !<FileTransform> {src: ARRI-LL-LogC4_6311_Pastel.cube, interpolation: tetrahedral}
 
   - !<Look>
     name: 6410 Sunset
     process_space: logc4_arriwg4
-    transform: !<FileTransform> {src: LogC4_6410_Sunset.cube, interpolation: tetrahedral}
+    transform: !<FileTransform> {src: ARRI-LL-LogC4_6410_Sunset.cube, interpolation: tetrahedral}
 
   - !<Look>
     name: 6420 Early Morning
     process_space: logc4_arriwg4
-    transform: !<FileTransform> {src: LogC4_6420_Early_Morning.cube, interpolation: tetrahedral}
+    transform: !<FileTransform> {src: ARRI-LL-LogC4_6420_Early_Morning.cube, interpolation: tetrahedral}
 
   - !<Look>
     name: 6610 Desert
     process_space: logc4_arriwg4
-    transform: !<FileTransform> {src: LogC4_6610_Desert.cube, interpolation: tetrahedral}
+    transform: !<FileTransform> {src: ARRI-LL-LogC4_6610_Desert.cube, interpolation: tetrahedral}
 
   - !<Look>
     name: 6620 Snow
     process_space: logc4_arriwg4
-    transform: !<FileTransform> {src: LogC4_6620_Snow.cube, interpolation: tetrahedral}
+    transform: !<FileTransform> {src: ARRI-LL-LogC4_6620_Snow.cube, interpolation: tetrahedral}
 
   - !<Look>
     name: 7110 Low Contrast
     process_space: logc4_arriwg4
-    transform: !<FileTransform> {src: LogC4_7110_Low_Contrast.cube, interpolation: tetrahedral}
+    transform: !<FileTransform> {src: ARRI-LL-LogC4_7110_Low_Contrast.cube, interpolation: tetrahedral}
 
   - !<Look>
     name: 7111 Low Contrast
     process_space: logc4_arriwg4
-    transform: !<FileTransform> {src: LogC4_7111_Low_Contrast.cube, interpolation: tetrahedral}
+    transform: !<FileTransform> {src: ARRI-LL-LogC4_7111_Low_Contrast.cube, interpolation: tetrahedral}
 
   - !<Look>
     name: 7120 High Contrast
     process_space: logc4_arriwg4
-    transform: !<FileTransform> {src: LogC4_7120_High_Contrast.cube, interpolation: tetrahedral}
+    transform: !<FileTransform> {src: ARRI-LL-LogC4_7120_High_Contrast.cube, interpolation: tetrahedral}
 
   - !<Look>
     name: 7121 High Contrast
     process_space: logc4_arriwg4
-    transform: !<FileTransform> {src: LogC4_7121_High_Contrast.cube, interpolation: tetrahedral}
+    transform: !<FileTransform> {src: ARRI-LL-LogC4_7121_High_Contrast.cube, interpolation: tetrahedral}
 
   - !<Look>
     name: 7130 High Key
     process_space: logc4_arriwg4
-    transform: !<FileTransform> {src: LogC4_7130_High_Key.cube, interpolation: tetrahedral}
+    transform: !<FileTransform> {src: ARRI-LL-LogC4_7130_High_Key.cube, interpolation: tetrahedral}
 
   - !<Look>
     name: 7131 High Key
     process_space: logc4_arriwg4
-    transform: !<FileTransform> {src: LogC4_7131_High_Key.cube, interpolation: tetrahedral}
+    transform: !<FileTransform> {src: ARRI-LL-LogC4_7131_High_Key.cube, interpolation: tetrahedral}
      
   - !<Look>
     name: 7140 Low Key
     process_space: logc4_arriwg4
-    transform: !<FileTransform> {src: LogC4_7140_Low_Key.cube, interpolation: tetrahedral}
+    transform: !<FileTransform> {src: ARRI-LL-LogC4_7140_Low_Key.cube, interpolation: tetrahedral}
 
   - !<Look>
     name: 8120 Twenties
     process_space: logc4_arriwg4
-    transform: !<FileTransform> {src: LogC4_8120_20s.cube, interpolation: tetrahedral}
+    transform: !<FileTransform> {src: ARRI-LL-LogC4_8120_20s.cube, interpolation: tetrahedral}
 
   - !<Look>
     name: 8130 Thirties
     process_space: logc4_arriwg4
-    transform: !<FileTransform> {src: LogC4_8130_30s.cube, interpolation: tetrahedral}
+    transform: !<FileTransform> {src: ARRI-LL-LogC4_8130_30s.cube, interpolation: tetrahedral}
 
   - !<Look>
     name: 8140 Forties
     process_space: logc4_arriwg4
-    transform: !<FileTransform> {src: LogC4_8140_40s.cube, interpolation: tetrahedral}
+    transform: !<FileTransform> {src: ARRI-LL-LogC4_8140_40s.cube, interpolation: tetrahedral}
 
   - !<Look>
     name: 8150 Fifties
     process_space: logc4_arriwg4
-    transform: !<FileTransform> {src: LogC4_8150_50s.cube, interpolation: tetrahedral}
+    transform: !<FileTransform> {src: ARRI-LL-LogC4_8150_50s.cube, interpolation: tetrahedral}
 
   - !<Look>
     name: 8160 Sixties
     process_space: logc4_arriwg4
-    transform: !<FileTransform> {src: LogC4_8160_60s.cube, interpolation: tetrahedral}
+    transform: !<FileTransform> {src: ARRI-LL-LogC4_8160_60s.cube, interpolation: tetrahedral}
 
   - !<Look>
     name: 8170 Seventies
     process_space: logc4_arriwg4
-    transform: !<FileTransform> {src: LogC4_8170_70s.cube, interpolation: tetrahedral}
+    transform: !<FileTransform> {src: ARRI-LL-LogC4_8170_70s.cube, interpolation: tetrahedral}
 
   - !<Look>
     name: 8180 Eighties
     process_space: logc4_arriwg4
-    transform: !<FileTransform> {src: LogC4_8180_80s.cube, interpolation: tetrahedral}
+    transform: !<FileTransform> {src: ARRI-LL-LogC4_8180_80s.cube, interpolation: tetrahedral}
 
   - !<Look>
     name: 8190 Nineties
     process_space: logc4_arriwg4
-    transform: !<FileTransform> {src: LogC4_8190_90s.cube, interpolation: tetrahedral}
+    transform: !<FileTransform> {src: ARRI-LL-LogC4_8190_90s.cube, interpolation: tetrahedral}
 
   - !<Look>
     name: 9110 Dream
     process_space: logc4_arriwg4
-    transform: !<FileTransform> {src: LogC4_9110_Dream.cube, interpolation: tetrahedral}
+    transform: !<FileTransform> {src: ARRI-LL-LogC4_9110_Dream.cube, interpolation: tetrahedral}
 
   - !<Look>
     name: 9111 Dream
     process_space: logc4_arriwg4
-    transform: !<FileTransform> {src: LogC4_9111_Dream.cube, interpolation: tetrahedral}
+    transform: !<FileTransform> {src: ARRI-LL-LogC4_9111_Dream.cube, interpolation: tetrahedral}
 
   - !<Look>
     name: 9120 Flash Back
     process_space: logc4_arriwg4
-    transform: !<FileTransform> {src: LogC4_9120_Flash_Back.cube, interpolation: tetrahedral}
+    transform: !<FileTransform> {src: ARRI-LL-LogC4_9120_Flash_Back.cube, interpolation: tetrahedral}
 
   - !<Look>
     name: 9210 Day For Night
     process_space: logc4_arriwg4
-    transform: !<FileTransform> {src: LogC4_9210_Day_for_Night.cube, interpolation: tetrahedral}
+    transform: !<FileTransform> {src: ARRI-LL-LogC4_9210_Day_for_Night.cube, interpolation: tetrahedral}
 
   - !<Look>
     name: 9211 Day For Night
     process_space: logc4_arriwg4
-    transform: !<FileTransform> {src: LogC4_9211_Day_for_Night.cube, interpolation: tetrahedral}
+    transform: !<FileTransform> {src: ARRI-LL-LogC4_9211_Day_for_Night.cube, interpolation: tetrahedral}
       
