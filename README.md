@@ -28,7 +28,7 @@ Original files (encoded in "linear-AP0") are available [here](https://www.dropbo
 
 # Looks
 * 87 looks from the [ARRI Look Library](https://www.arri.com/en/learn-help/learn-help-camera-system/tools/arri-look-library-app) have been added to the config
-* **BUT** you will have to download them from [this link](https://www.arri.com/en/learn-help/learn-help-camera-system/image-science/look-files)
+* **BUT** you will have to download them from [this link](https://www.filmlight.ltd.uk/support/customer-login/colourspaces/colourspaces.php)
 * The use of Looks is highly recommended with ARRI REVEAL
 * To use one of the looks, you need to combine it with a View. Like this for instance:
 
