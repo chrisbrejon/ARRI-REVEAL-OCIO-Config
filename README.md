@@ -1,5 +1,5 @@
 # ARRI-REVEAL-OCIO-Config
-Based on the [ARRI LUT Generator](https://www.arri.com/en/learn-help/learn-help-camera-system/tools/lut-generator) I have created a minimal OCIO config of ARRI REVEAL for full CG projects. This is **the ARRI ALEXA 35 Workflow** in its most minimalistic and simple form:
+Based on the [LogC4 LUT Package](https://www.arri.com/en/learn-help/learn-help-camera-system/technical-downloads) I have created a minimal OCIO config of ARRI REVEAL for full CG projects. This is **the ARRI ALEXA 35 Workflow** in its most minimalistic and simple form:
 * Inputs (textures) are in "linear"
 * Rendering and Nuke working space are also in "linear"
 * View Transform is for Rec.1886 display
@@ -24,6 +24,7 @@ Original files (encoded in "linear-AP0") are available [here](https://www.dropbo
 * "logc4_arriwg4" is the shaper space. It can be used for color timing and some log operations (such as sharpen)
 * Substance_painter roles were set following [this page](https://mrlixm.github.io/blog/substance-painter-color-management/)
 * An inverse of the View Transform has been provided even though it is not perfect
+* Please note that the inverted LUT was not ARRI-originated (I respected the naming convention from [this guide](https://www.arri.com/resource/blob/294602/67ddc229fc77f6f27551fc2613302dfc/arri-lut-naming-convention-logc4-and-logc3-guideline-en-data.pdf))
 * One may easily add several colorspaces or displays for HDR output if needed (such as "p3_d65_pq")
 
 # Looks
