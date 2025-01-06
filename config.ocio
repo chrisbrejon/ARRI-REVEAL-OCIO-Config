@@ -53,7 +53,7 @@ colorspaces:
     family: SceneReferred    
     bitdepth: 32f
     description: Linear - Rec.709 - D65
-    to_reference: !<MatrixTransform> {matrix: [0.4338873, 0.3762240, 0.1898886, 0, 0.2126390, 0.7151687, 0.0721923, 0, 0.0177500, 0.1094476, 0.8728023, 0, 0, 0, 0, 1]}
+    to_reference: !<MatrixTransform> {matrix: [0.4356235907, 0.3971433934, 0.1672800655, 0.0000000000, 0.2208065115, 0.7122275776, 0.0669677600, 0.0000000000, 0.0172263726, 0.1086536976, 0.8740667768, 0.0000000000, 0.0000000000, 0.0000000000, 0.0000000000, 1.0000000000]}
     allocation: lg2
     allocationvars: [-10, 7, 0.0056065625]
 
@@ -65,7 +65,7 @@ colorspaces:
     to_reference: !<GroupTransform>
       children:
         - !<FileTransform> {src: CineonLog_2_Linear.spi1d, interpolation: linear}
-        - !<MatrixTransform> {matrix: [0.4338873, 0.3762240, 0.1898886, 0, 0.2126390, 0.7151687, 0.0721923, 0, 0.0177500, 0.1094476, 0.8728023, 0, 0, 0, 0, 1]}
+        - !<MatrixTransform> {matrix: [0.4356235907, 0.3971433934, 0.1672800655, 0.0000000000, 0.2208065115, 0.7122275776, 0.0669677600, 0.0000000000, 0.0172263726, 0.1086536976, 0.8740667768, 0.0000000000, 0.0000000000, 0.0000000000, 0.0000000000, 1.0000000000]}
    
   - !<ColorSpace>
     name: logc4_arriwg4
@@ -75,7 +75,7 @@ colorspaces:
     to_reference: !<GroupTransform>
       children:
         - !<FileTransform> {src: oetf_arri_logc4_to_linear.spi1d, interpolation: linear}
-        - !<MatrixTransform> {matrix: [0.7416002156, 0.1365242633, 0.1218755212, 0.0000000000, 0.2545241764, 0.7814777327, -0.0360019091, 0.0000000000, 0.0000000000, 0.0000000000, 1.0000000000, 0.0000000000, 0.0000000000, 0.0000000000, 0.0000000000, 1.0000000000]}
+        - !<MatrixTransform> {matrix: [0.7408587166, 0.1666331576, 0.0925081259, 0.0000000000, 0.2707356648, 0.7718831293, -0.0426187940, 0.0000000000, -0.0007899156, -0.0008805599, 1.0016704755, 0.0000000000, 0.0000000000, 0.0000000000, 0.0000000000, 1.0000000000]}
 
   - !<ColorSpace>
     name: lin_xyz
@@ -90,7 +90,7 @@ colorspaces:
     family: SceneReferred    
     bitdepth: 32f
     description: ACES 2065-1 - Linear - AP0 - ACES White Point (~D60)
-    to_reference: !<MatrixTransform> {matrix: [0.9999017, 0.0000000, 0.0000983, 0, 0.3439664, 0.7281661, -0.0721325, 0, 0.0000000, 0.0000000, 1.0000000, 0, 0, 0, 0, 1]}
+    to_reference: !<MatrixTransform> {matrix: [0.9865190867, 0.0239710338, -0.0104901205, 0.0000000000, 0.3596892056, 0.7145861558, -0.0742753614, 0.0000000000, -0.0003859199, 0.0000294397, 1.0003564803, 0.0000000000, 0.0000000000, 0.0000000000, 0.0000000000, 1.0000000000]}
     allocation: lg2
     allocationvars: [-10, 7, 0.0056065625]  
 
@@ -99,7 +99,7 @@ colorspaces:
     family: SceneReferred    
     bitdepth: 32f
     description: ACEScg - Linear - AP1 - ACES White Point (~D60)
-    to_reference: !<MatrixTransform> {matrix: [0.6953833105, 0.1406652586, 0.1639514308, 0, 0.2722287168, 0.6740817658, 0.0536895174, 0, -0.0055258826, 0.0040252103, 1.0015006723, 0, 0, 0, 0, 1]}
+    to_reference: !<MatrixTransform> {matrix: [0.6872086492, 0.1593471996, 0.1534441512, 0.0000000000, 0.2825666760, 0.6646107144, 0.0528226096, 0.0000000000, -0.0057949226, 0.0039976629, 1.0017972596, 0.0000000000, 0.0000000000, 0.0000000000, 0.0000000000, 1.0000000000]}
     allocation: lg2
     allocationvars: [-10, 7, 0.0056065625]
 
@@ -137,7 +137,7 @@ colorspaces:
     description: sRGB Piecewise Function - Rec.709 - D65
     from_reference: !<GroupTransform>
       children:
-        - !<MatrixTransform> {matrix: [0.4338873, 0.3762240, 0.1898886, 0, 0.2126390, 0.7151687, 0.0721923, 0, 0.0177500, 0.1094476, 0.8728023, 0, 0, 0, 0, 1], direction: inverse}
+        - !<MatrixTransform> {matrix: [0.4356235907, 0.3971433934, 0.1672800655, 0.0000000000, 0.2208065115, 0.7122275776, 0.0669677600, 0.0000000000, 0.0172263726, 0.1086536976, 0.8740667768, 0.0000000000, 0.0000000000, 0.0000000000, 0.0000000000, 1.0000000000]}
         - !<FileTransform> {src: linear_to_sRGB.spi1d, interpolation: linear}
     allocation: uniform
     allocationvars: [0, 1]        
@@ -149,7 +149,7 @@ colorspaces:
     description: Gamma 2.4 - Rec.709 - D65
     from_reference: !<GroupTransform>
       children:
-        - !<MatrixTransform> {matrix: [0.4338873, 0.3762240, 0.1898886, 0, 0.2126390, 0.7151687, 0.0721923, 0, 0.0177500, 0.1094476, 0.8728023, 0, 0, 0, 0, 1], direction: inverse}
+        - !<MatrixTransform> {matrix: [0.4356235907, 0.3971433934, 0.1672800655, 0.0000000000, 0.2208065115, 0.7122275776, 0.0669677600, 0.0000000000, 0.0172263726, 0.1086536976, 0.8740667768, 0.0000000000, 0.0000000000, 0.0000000000, 0.0000000000, 1.0000000000]}
         - !<FileTransform> {src: linear_to_rec1886.spi1d, interpolation: linear}
     allocation: uniform
     allocationvars: [0, 1]            
